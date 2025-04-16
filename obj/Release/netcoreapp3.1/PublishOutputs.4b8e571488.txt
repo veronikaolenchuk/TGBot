@@ -1,0 +1,12 @@
+/Users/Habob/Projects/TGBot/TGBot/obj/Release/netcoreapp3.1/PubTmp/Out/appsettings.Development.json
+/Users/Habob/Projects/TGBot/TGBot/obj/Release/netcoreapp3.1/PubTmp/Out/appsettings.json
+/Users/Habob/Projects/TGBot/TGBot/obj/Release/netcoreapp3.1/PubTmp/Out/mono_crash.11a6748113.0.json
+/Users/Habob/Projects/TGBot/TGBot/obj/Release/netcoreapp3.1/PubTmp/Out/TGBot.dll
+/Users/Habob/Projects/TGBot/TGBot/obj/Release/netcoreapp3.1/PubTmp/Out/TGBot.deps.json
+/Users/Habob/Projects/TGBot/TGBot/obj/Release/netcoreapp3.1/PubTmp/Out/TGBot.runtimeconfig.json
+/Users/Habob/Projects/TGBot/TGBot/obj/Release/netcoreapp3.1/PubTmp/Out/TGBot.pdb
+/Users/Habob/Projects/TGBot/TGBot/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.AspNetCore.JsonPatch.dll
+/Users/Habob/Projects/TGBot/TGBot/obj/Release/netcoreapp3.1/PubTmp/Out/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/Habob/Projects/TGBot/TGBot/obj/Release/netcoreapp3.1/PubTmp/Out/Newtonsoft.Json.dll
+/Users/Habob/Projects/TGBot/TGBot/obj/Release/netcoreapp3.1/PubTmp/Out/Newtonsoft.Json.Bson.dll
+/Users/Habob/Projects/TGBot/TGBot/obj/Release/netcoreapp3.1/PubTmp/Out/Telegram.Bot.dll
